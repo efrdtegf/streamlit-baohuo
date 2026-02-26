@@ -1034,7 +1034,6 @@ Stacktrace:
 #23 0x7f8d93a9caa4 <unknown>
 #24 0x7f8d93b29c6c <unknown>
 
-[2026-02-24 02:03:12] 错误：Message: unknown error: net::ERR_NAME_NOT_RESOLVED
   (Session info: chrome=144.0.7559.109)
 Stacktrace:
 #0 0x5615ce084a4a <unknown>
@@ -1063,7 +1062,6 @@ Stacktrace:
 #23 0x7f1f9ac9caa4 <unknown>
 #24 0x7f1f9ad29c6c <unknown>
 
-[2026-02-24 13:04:24] 错误：Message: unknown error: net::ERR_NAME_NOT_RESOLVED
   (Session info: chrome=144.0.7559.109)
 Stacktrace:
 #0 0x561eb57c0a4a <unknown>
@@ -1178,4 +1176,33 @@ Stacktrace:
 #22 0x562a93bc01a3 <unknown>
 #23 0x7fb6ca49caa4 <unknown>
 #24 0x7fb6ca529c6c <unknown>
+
+[2026-02-26 13:04:36] 错误：Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=145.0.7632.116)
+Stacktrace:
+#0 0x564aac0ccb6a <unknown>
+#1 0x564aabadfa32 <unknown>
+#2 0x564aabad67ba <unknown>
+#3 0x564aabac7481 <unknown>
+#4 0x564aabac927c <unknown>
+#5 0x564aabac7979 <unknown>
+#6 0x564aabac7065 <unknown>
+#7 0x564aabac6c16 <unknown>
+#8 0x564aabac4731 <unknown>
+#9 0x564aabac4f80 <unknown>
+#10 0x564aabae341d <unknown>
+#11 0x564aabb7dfeb <unknown>
+#12 0x564aabb7d369 <unknown>
+#13 0x564aabb26c0f <unknown>
+#14 0x564aabb279d1 <unknown>
+#15 0x564aac0916b9 <unknown>
+#16 0x564aac0945c1 <unknown>
+#17 0x564aac07de29 <unknown>
+#18 0x564aac09517e <unknown>
+#19 0x564aac0644b0 <unknown>
+#20 0x564aac0b9578 <unknown>
+#21 0x564aac0b974b <unknown>
+#22 0x564aac0cb1a3 <unknown>
+#23 0x7f89ee89caa4 <unknown>
+#24 0x7f89ee929c6c <unknown>
 
